@@ -61,7 +61,7 @@ public class Program
 
         if (!executionPlan.Orders.Any())
         {
-            Console.WriteLine("No valid execution plan found.");
+            Console.WriteLine("No execution orders could be generated for the the given inputs");
             return;
         }
 
