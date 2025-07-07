@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mouakos\\Documents\\MetaExchange\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.infrastructure\\repositories\\jsonexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|solutionrelative:src\\metaexchange.infrastructure\\repositories\\jsonexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.infrastructure\\mappers\\exchangemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|solutionrelative:src\\metaexchange.infrastructure\\mappers\\exchangemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.infrastructure\\dtos\\orderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|solutionrelative:src\\metaexchange.infrastructure\\dtos\\orderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.application\\services\\metaexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|solutionrelative:src\\metaexchange.application\\services\\metaexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JsonExchangeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
+              "RelativeDocumentMoniker": "src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
+              "RelativeToolTip": "src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:59:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\Mappers\\ExchangeMapper.cs",
+              "RelativeDocumentMoniker": "src\\MetaExchange.Infrastructure\\Mappers\\ExchangeMapper.cs",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\Mappers\\ExchangeMapper.cs",
+              "RelativeToolTip": "src\\MetaExchange.Infrastructure\\Mappers\\ExchangeMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:58:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\DTOs\\OrderBookDto.cs",
+              "RelativeDocumentMoniker": "src\\MetaExchange.Infrastructure\\DTOs\\OrderBookDto.cs",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\DTOs\\OrderBookDto.cs",
+              "RelativeToolTip": "src\\MetaExchange.Infrastructure\\DTOs\\OrderBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:57:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MetaExchangeService.cs",
               "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
               "RelativeDocumentMoniker": "src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
@@ -35,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MetaExchange.Application",
+              "DocumentIndex": 4,
+              "Title": "MetaExchange.Application.csproj",
               "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\MetaExchange.Application.csproj",
               "RelativeDocumentMoniker": "src\\MetaExchange.Application\\MetaExchange.Application.csproj",
               "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\MetaExchange.Application.csproj",
               "RelativeToolTip": "src\\MetaExchange.Application\\MetaExchange.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T09:31:49.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T09:31:49.6Z"
             }
           ]
         }
