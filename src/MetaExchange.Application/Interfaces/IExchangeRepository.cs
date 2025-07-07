@@ -1,6 +1,6 @@
 using MetaExchange.Domain.Entities;
 
-namespace CryptoExchange.Application.Interfaces;
+namespace MetaExchange.Application.Interfaces;
 
 public interface IExchangeRepository
 {

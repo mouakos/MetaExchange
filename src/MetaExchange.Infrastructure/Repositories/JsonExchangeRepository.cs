@@ -1,5 +1,5 @@
 using System.Text.Json;
-using CryptoExchange.Application.Interfaces;
+using MetaExchange.Application.Interfaces;
 using MetaExchange.Domain.Entities;
 using MetaExchange.Infrastructure.DTOs;
 using MetaExchange.Infrastructure.mappers;
