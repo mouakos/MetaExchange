@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mouakos\\Documents\\MetaExchange\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42CD3908-5F0B-4A0F-8152-DFDEE6C7C58B}|src\\MetaExchange.ConsoleApp\\MetaExchange.ConsoleApp.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CD3908-5F0B-4A0F-8152-DFDEE6C7C58B}|src\\MetaExchange.ConsoleApp\\MetaExchange.ConsoleApp.csproj|solutionrelative:src\\metaexchange.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.application\\interfaces\\iexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|solutionrelative:src\\metaexchange.application\\interfaces\\iexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|solutionrelative:src\\metaexchange.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.infrastructure\\repositories\\jsonexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8CCAE4-C928-4442-A5C5-EE341A3B40C0}|src\\MetaExchange.Infrastructure\\MetaExchange.Infrastructure.csproj|solutionrelative:src\\metaexchange.infrastructure\\repositories\\jsonexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.application\\interfaces\\iexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|solutionrelative:src\\metaexchange.application\\interfaces\\iexchangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MetaExchange.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "src\\MetaExchange.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:15:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IExchangeRepository.cs",
               "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\Interfaces\\IExchangeRepository.cs",
               "RelativeDocumentMoniker": "src\\MetaExchange.Application\\Interfaces\\IExchangeRepository.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "JsonExchangeRepository.cs",
               "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
               "RelativeDocumentMoniker": "src\\MetaExchange.Infrastructure\\Repositories\\JsonExchangeRepository.cs",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\MetaExchange.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "src\\MetaExchange.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T13:11:02.963Z",
               "EditorCaption": ""
