@@ -1,6 +1,6 @@
 # Meta Exchange
 
-This solution implements a meta crypto exchange using Clean Architecture in C#. It consists of:
+This solution implements a meta exchange using Clean Architecture in C#. It consists of:
 - Domain, Application, Infrastructure, ConsoleApp, and WebApi projects
 - Reads order books from JSON files and computes the best execution plan for BTC/EUR trades
 
