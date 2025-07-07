@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mouakos\\Documents\\MetaExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.application\\services\\metaexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|solutionrelative:src\\metaexchange.application\\services\\metaexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|c:\\users\\mouakos\\documents\\metaexchange\\src\\metaexchange.application\\metaexchange.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1D15D6D-085B-47EC-A937-0EF4E51B5218}|src\\MetaExchange.Application\\MetaExchange.Application.csproj|solutionrelative:src\\metaexchange.application\\metaexchange.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetaExchangeService.cs",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
+              "RelativeDocumentMoniker": "src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
+              "RelativeToolTip": "src\\MetaExchange.Application\\Services\\MetaExchangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:36:34.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetaExchange.Application",
+              "DocumentMoniker": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\MetaExchange.Application.csproj",
+              "RelativeDocumentMoniker": "src\\MetaExchange.Application\\MetaExchange.Application.csproj",
+              "ToolTip": "C:\\Users\\mouakos\\Documents\\MetaExchange\\src\\MetaExchange.Application\\MetaExchange.Application.csproj",
+              "RelativeToolTip": "src\\MetaExchange.Application\\MetaExchange.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T09:31:49.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
