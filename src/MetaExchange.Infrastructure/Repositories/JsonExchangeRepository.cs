@@ -21,6 +21,7 @@ public class JsonExchangeRepository : IExchangeRepository
     public async Task<List<Exchange>> GetAllAsync()
     {
         var exchanges = new List<Exchange>();
+
         var files = Directory.GetFiles(m_FolderPath, "*.json");
 
         foreach (var file in files)
